@@ -1,0 +1,19 @@
+{
+  "name": "itws2-sample-marks-data",
+  "version": "1.0.0",
+  "description": "Sample marks data for solving problem in ITWS lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hharchani/itws2-sample-marks-data.git"
+  },
+  "author": "Harshit Harchani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hharchani/itws2-sample-marks-data/issues"
+  },
+  "homepage": "https://github.com/hharchani/itws2-sample-marks-data#readme"
+}
